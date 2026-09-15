@@ -50,39 +50,39 @@ This README is my public notebook. I use three simple states:
 
 | State | Meaning |
 |:--|:--|
-| ✅ Used in practice | I have applied it in code and can return to it independently. |
-| 🔴 Learning now | I am studying or practising it in current projects. |
-| ⬜ Planned | It is on the roadmap, but I am not claiming it as a current skill. |
+| Used in practice | I have applied it in code and can return to it independently. |
+| Learning now | I am studying or practising it in current projects. |
+| Planned | It is on the roadmap, but I am not claiming it as a current skill. |
 
 ### Current Learning
 
 | Area | Current focus | Status |
 |:--|:--|:--:|
-| **C++** | STL, program structure, clean interfaces, testing | 🔴 Learning now |
-| **Software design** | Splitting UI, logic, storage and utilities into clear layers | 🔴 Learning now |
-| **Minecraft automation** | ComputerCraft concepts and useful in-game systems | 🔴 Exploring |
-| **Content creation** | Streams, videos and a consistent Minecraft-focused identity | 🔴 In progress |
+| **C++** | STL, program structure, clean interfaces, testing | Learning now |
+| **Software design** | Splitting UI, logic, storage and utilities into clear layers | Learning now |
+| **Minecraft automation** | ComputerCraft concepts and useful in-game systems | Exploring |
+| **Content creation** | Streams, videos and a consistent Minecraft-focused identity | In progress |
 
 ### Learned / Comfortable
 
 > These are foundations already used in practice; I am still improving them.
 
-- ✅ C++ syntax, functions, structures and multi-file programs
-- ✅ Console input/output and validation
-- ✅ Basic file-based persistence
-- ✅ Separating a project into UI, logic, storage and core utilities
-- ✅ Writing focused checks for program logic
-- ✅ Basic Git and GitHub workflow for publishing study projects
+- C++ syntax, functions, structures and multi-file programs
+- Console input/output and validation
+- Basic file-based persistence
+- Separating a project into UI, logic, storage and core utilities
+- Writing focused checks for program logic
+- Basic Git and GitHub workflow for publishing study projects
 
 ### Planned
 
-- ⬜ Modern C++ in greater depth: RAII, smart pointers, templates and algorithms
-- ⬜ CMake and a repeatable build workflow
-- ⬜ Automated testing and GitHub Actions
-- ⬜ Java fundamentals for Minecraft modding
-- ⬜ Fabric or NeoForge mod development
-- ⬜ Lua fundamentals and the ComputerCraft API
-- ⬜ Minecraft utilities, stream tools and creator-side automation
+- Modern C++ in greater depth: RAII, smart pointers, templates and algorithms
+- CMake and a repeatable build workflow
+- Automated testing and GitHub Actions
+- Java fundamentals for Minecraft modding
+- Fabric or NeoForge mod development
+- Lua fundamentals and the ComputerCraft API
+- Minecraft utilities, stream tools and creator-side automation
 
 ---
 
