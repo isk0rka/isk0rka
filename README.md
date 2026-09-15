@@ -171,17 +171,6 @@ A C++ console calendar with events and reminders, developed as a practice projec
 
 </td>
 <td width="50%" valign="top">
-
-### [Development Notebook](https://github.com/isk0rka/isk0rka)
-
-This profile repository: an honest, version-controlled map of what I use, what I am learning and what I want to build next.
-
-`Learning log` `Roadmaps` `GitHub profile`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
   
 ---
 
