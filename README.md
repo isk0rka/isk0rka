@@ -182,26 +182,7 @@ This profile repository: an honest, version-controlled map of what I use, what I
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### Minecraft Automation Project
-
-Planned: a documented ComputerCraft project for a useful in-game automation task.
-
-`Lua — planned` `ComputerCraft — planned`
-
-</td>
-<td width="50%" valign="top">
-
-### First Minecraft Mod
-
-Planned: a small original quality-of-life mod built while learning Java and a modern mod loader.
-
-`Java — planned` `Modding — planned`
-
-</td>
-</tr>
-</table>
-
+  
 ---
 
 ## Minecraft / Content Creation
