@@ -157,23 +157,6 @@ This README is my public notebook. I use three simple states:
 
 ---
 
-## Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Console Calendar App](https://github.com/isk0rka/console_calendar_app_to_practice)
-
-A C++ console calendar with events and reminders, developed as a practice project for business logic, modular design, validation, file storage and tests.
-
-`C++` `Console` `Layered structure` `Practice`
-
-</td>
-<td width="50%" valign="top">
-  
----
-
 ## Minecraft / Content Creation
 
 Minecraft is the main theme behind my streams, videos and future side projects.
@@ -190,8 +173,8 @@ Areas I want to connect with development:
 - clear project write-ups that can become useful video material
 
 <!-- Add verified channel links here when ready. Example:
-<a href="YOUR_YOUTUBE_URL"><img src="https://img.shields.io/badge/YouTube-channel-e53935?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-<a href="YOUR_STREAM_URL"><img src="https://img.shields.io/badge/Streams-live-e53935?style=for-the-badge&logo=twitch&logoColor=white" alt="Streams" /></a>
+<a href="https://www.youtube.com/@iskorka"><img src="https://img.shields.io/badge/YouTube-channel-e53935?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.twitch.tv/iskorka"><img src="https://img.shields.io/badge/Streams-live-e53935?style=for-the-badge&logo=twitch&logoColor=white" alt="Streams" /></a>
 -->
 
 ---
