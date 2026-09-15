@@ -80,7 +80,9 @@ struct Isk0rka {
 <a href="https://t.me/lsk0rka">
   <img src="https://img.shields.io/badge/Telegram-@lsk0rka-e53935?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram @lsk0rka" />
 </a>
-<img src="https://img.shields.io/badge/Discord-isk0rka-e53935?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord isk0rka" />
+<a href="https://discord.com/users/1050049683642392616">
+  <img src="https://img.shields.io/badge/Discord-isk0rka-e53935?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord isk0rka" />
+</a>
 
 For project questions, ideas or collaboration, contact me through one of the links above or open an issue in the relevant repository.
 
