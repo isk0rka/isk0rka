@@ -1,6 +1,6 @@
 <div align="center">
 
-# `> isk0rka_`
+# `{iskorka}`
 
 ### C++ • Minecraft • Streaming • Learning
 
