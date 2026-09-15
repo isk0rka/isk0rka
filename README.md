@@ -64,15 +64,25 @@ struct Isk0rka {
 
 ---
 
-## Contacts
+##Contacts
 
 <div align="center">
 
 <a href="https://github.com/isk0rka">
   <img src="https://img.shields.io/badge/GitHub-@isk0rka-e53935?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub @isk0rka" />
 </a>
+<a href="https://www.youtube.com/@iskorka">
+  <img src="https://img.shields.io/badge/YouTube-@iskorka-e53935?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0d1117" alt="YouTube @iskorka" />
+</a>
+<a href="https://www.twitch.tv/iskorka">
+  <img src="https://img.shields.io/badge/Twitch-iskorka-e53935?style=for-the-badge&logo=twitch&logoColor=white&labelColor=0d1117" alt="Twitch iskorka" />
+</a>
+<a href="https://t.me/lsk0rka">
+  <img src="https://img.shields.io/badge/Telegram-@lsk0rka-e53935?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" alt="Telegram @lsk0rka" />
+</a>
+<img src="https://img.shields.io/badge/Discord-isk0rka-e53935?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" alt="Discord isk0rka" />
 
-For project questions, ideas or collaboration, open an issue in the relevant repository.
+For project questions, ideas or collaboration, contact me through one of the links above or open an issue in the relevant repository.
 
 <!-- Add only verified public contacts. Do not publish a private email address. -->
 
